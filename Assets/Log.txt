@@ -253,3 +253,21 @@ Disconnection 1
 20211120 114921: user3:player join in game room from connection 1
 20211120 114921: start game with players(connection_id:name) ,3:user1,2:user2,1:user3
 20211120 114926: user3:test to connection 3
+20211120 211038: Start connection 1
+20211120 211050: yaniv:Account creation succeed from connection 1
+20211120 211057: yaniv:player join in game room from connection 1
+20211120 211135: Disconnection 1
+20211120 211408: Start connection 1
+20211120 211414: yaniv:Account creation failed from connection 1
+20211120 211416: yaniv:Account creation failed from connection 1
+20211120 211420: yaniv:Login succeed from connection 1
+20211120 211434: yaniv:player join in game room from connection 1
+20211120 211457: Start connection 2
+20211120 211513: yaniv2:Account creation succeed from connection 2
+20211120 211515: yaniv2:player join in game room from connection 2
+20211120 211538: Start connection 3
+20211120 211546: yaniv3:Account creation succeed from connection 3
+20211120 211547: yaniv3:player join in game room from connection 3
+20211120 211547: start game with players(connection_id:name) ,1:yaniv,2:yaniv2,3:yaniv3
+20211120 211607: yaniv:im so cool to connection 2
+20211120 211621: yaniv3:wowowow programm so gud to connection 1
