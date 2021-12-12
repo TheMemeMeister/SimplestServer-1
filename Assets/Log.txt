@@ -271,3 +271,49 @@ Disconnection 1
 20211120 211547: start game with players(connection_id:name) ,1:yaniv,2:yaniv2,3:yaniv3
 20211120 211607: yaniv:im so cool to connection 2
 20211120 211621: yaniv3:wowowow programm so gud to connection 1
+20211203 214143: Start connection 1
+20211203 214151: Yaniv:Account creation succeed from connection 1
+20211203 214201: Start connection 2
+20211203 214207: Yaniv2:Account creation succeed from connection 2
+20211203 214214: Start connection 3
+20211203 214224: Yaniv4:Account creation succeed from connection 3
+20211203 214325: Yaniv:player join in game room from connection 1
+20211203 214328: Yaniv2:player join in game room from connection 2
+20211203 214332: Yaniv4:player join in game room from connection 3
+20211203 214332: start game with players(connection_id:name) ,1:Yaniv,2:Yaniv2,3:Yaniv4
+20211203 214345: Yaniv:asdadad from connection 1
+20211203 214348: Yaniv:hello from connection 1
+20211203 214350: Yaniv:bye from connection 1
+20211203 214355: Yaniv:adbc to connection 2
+20211203 214414: Disconnection 1
+20211203 214507: Disconnection 3
+20211203 214508: Disconnection 2
+20211212 140659: Start connection 1
+20211212 140704: Yaniv1:Account creation succeed from connection 1
+20211212 140712: Yaniv1:player join in game room from connection 1
+20211212 140734: Start connection 2
+20211212 140738: yaniv2:Account creation failed from connection 2
+20211212 140740: yaniv2:Account creation failed from connection 2
+20211212 140743: yaniv2:Account creation failed from connection 2
+20211212 140749: yaniv2:Account creation failed from connection 2
+20211212 140751: yaniv2:Login succeed from connection 2
+20211212 140752: yaniv2:player join in game room from connection 2
+20211212 140850: Start connection 3
+20211212 140854: yaniv3:Account creation failed from connection 3
+20211212 140856: yaniv3:Account creation failed from connection 3
+20211212 140904: yaniv3:Account creation failed from connection 3
+20211212 140905: yaniv3:Account creation failed from connection 3
+20211212 140905: yaniv3:Account creation failed from connection 3
+20211212 140909: yaniv3:Account creation failed from connection 3
+20211212 140909: yaniv3:Account creation failed from connection 3
+20211212 140909: yaniv3:Account creation failed from connection 3
+20211212 140911: yaniv3:Account creation failed from connection 3
+20211212 140911: yaniv3:Account creation failed from connection 3
+20211212 140925: yaniv3:Login succeed from connection 3
+20211212 140927: yaniv3:player join in game room from connection 3
+20211212 140927: start game with players(connection_id:name) ,1:Yaniv1,2:yaniv2,3:yaniv3
+20211212 140933: yaniv3: from connection 3
+20211212 140939: yaniv3:yelllo from connection 3
+20211212 140956: Disconnection 3
+20211212 140957: Disconnection 2
+20211212 140958: Disconnection 1
